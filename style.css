@@ -87,7 +87,7 @@ span{
     margin-bottom: 3em;
 }
 
-button{
+.button{
     font-size: 24px;
     background-color: #A59678;
     color: #fff;
@@ -100,6 +100,7 @@ button{
     font-family: 'Oswald', sans-serif;
     border: none;
     cursor: pointer;
+    width: 220px;
 }
 
 .section2{
